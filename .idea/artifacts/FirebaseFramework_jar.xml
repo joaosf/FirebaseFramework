@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FirebaseFramework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirebaseFramework_jar</output-path>
+    <root id="archive" name="FirebaseFramework.jar">
+      <element id="module-output" name="FirebaseFramework" />
+    </root>
+  </artifact>
+</component>
